@@ -1,0 +1,16 @@
+C:\Users\namwe\HelloWorldMeAgain\bin\Debug\net5.0\HelloWorldMeAgain.exe
+C:\Users\namwe\HelloWorldMeAgain\bin\Debug\net5.0\HelloWorldMeAgain.deps.json
+C:\Users\namwe\HelloWorldMeAgain\bin\Debug\net5.0\HelloWorldMeAgain.runtimeconfig.json
+C:\Users\namwe\HelloWorldMeAgain\bin\Debug\net5.0\HelloWorldMeAgain.runtimeconfig.dev.json
+C:\Users\namwe\HelloWorldMeAgain\bin\Debug\net5.0\HelloWorldMeAgain.dll
+C:\Users\namwe\HelloWorldMeAgain\bin\Debug\net5.0\ref\HelloWorldMeAgain.dll
+C:\Users\namwe\HelloWorldMeAgain\bin\Debug\net5.0\HelloWorldMeAgain.pdb
+C:\Users\namwe\HelloWorldMeAgain\obj\Debug\net5.0\HelloWorldMeAgain.csprojAssemblyReference.cache
+C:\Users\namwe\HelloWorldMeAgain\obj\Debug\net5.0\HelloWorldMeAgain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namwe\HelloWorldMeAgain\obj\Debug\net5.0\HelloWorldMeAgain.AssemblyInfoInputs.cache
+C:\Users\namwe\HelloWorldMeAgain\obj\Debug\net5.0\HelloWorldMeAgain.AssemblyInfo.cs
+C:\Users\namwe\HelloWorldMeAgain\obj\Debug\net5.0\HelloWorldMeAgain.csproj.CoreCompileInputs.cache
+C:\Users\namwe\HelloWorldMeAgain\obj\Debug\net5.0\HelloWorldMeAgain.dll
+C:\Users\namwe\HelloWorldMeAgain\obj\Debug\net5.0\ref\HelloWorldMeAgain.dll
+C:\Users\namwe\HelloWorldMeAgain\obj\Debug\net5.0\HelloWorldMeAgain.pdb
+C:\Users\namwe\HelloWorldMeAgain\obj\Debug\net5.0\HelloWorldMeAgain.genruntimeconfig.cache
